@@ -1,1 +1,1 @@
-# simple-personal-web
+# little-profile-details
